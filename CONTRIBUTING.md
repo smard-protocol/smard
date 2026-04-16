@@ -34,9 +34,15 @@ Scope of v0.1 reference client:
 - No AI. No monetization. No tracking.
 
 ### 3. Design
-We need a reference UI for SmardApp.
-Design system is defined: white background, single blue accent (#1D9BF0), Inter typeface, extreme minimalism.
-Open an Issue titled `[Design] Your proposal` with your approach.
+
+The visual design system for SmardApp is defined by the core team and is not open for alternative proposals.
+
+The reference design will be published as a public Figma file.
+Developers implementing compatible clients are welcome to use it as reference
+or create their own visual language — the protocol does not dictate UI.
+
+If you find inconsistencies between the design spec and the protocol spec, open an Issue.
+
 
 ### 4. Documentation
 - Improve the spec with better examples
