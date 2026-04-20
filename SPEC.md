@@ -306,3 +306,27 @@ MAJOR changes (1.x → 2.0): changes to required fields or lifecycle. Require de
 Roadmap target: reach SMARD 2.0 with federated identity implemented, at least three independent compatible clients, and the proprietary application ecosystem operational.
 
 SMARD Protocol — Capsule Specification v1.0Apache 2.0 Licensegithub.com/smard-protocol/smard
+
+
+
+## 12. Transport Layer (Conceptual)
+
+SMARD defines what a capsule contains, not how it travels.
+
+For v1.0, two transport modes are supported 
+by compatible clients:
+
+**Direct (server-to-server):**
+A Smard created on server A and addressed to 
+@handle@server-b.com is delivered via HTTPS POST 
+to the recipient server's endpoint.
+Analogous to email's SMTP delivery model.
+
+**Local (same server):**
+All participants share the same server instance.
+No transport required — capsules are shared 
+within the same database.
+
+Federated transport specification 
+(cross-server at scale) is proposed for v1.1,
+following ActivityPub patterns.
