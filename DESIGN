@@ -1,0 +1,79 @@
+# SMARD Design System
+
+Visual direction for SmardApp — the reference client.
+
+**Figma reference file (view only):**  
+[Open in Figma](https://www.figma.com/design/FEjaOFQscqo1Ai5pynWnHH/Sin-t%C3%ADtulo?node-id=0-1&t=pJ2B3WJnDcr7CUSx-1)
+
+---
+
+## Core decisions
+
+These are not suggestions — they are the visual foundation
+of SmardApp. Any compatible client may use its own 
+visual language. This file is reference, not requirement.
+
+**Colors**
+- Background: #FFFFFF
+- Surface: #F8F9FA
+- Border: #E9ECEF
+- Text primary: #1A1A1A
+- Text secondary: #6C757D
+- Text tertiary: #ADB5BD
+- Accent: #1D9BF0 (single blue — used sparingly)
+
+**The accent color appears only on:**
+- Active tab indicator
+- New Smard button (+)
+- Inline links
+- Completed task checkboxes
+
+Nowhere else.
+
+**Typography**
+- Font: Inter (Google Fonts)
+- Body: 16px / line-height 1.6
+- Title: 18px bold
+- Metadata: 12px / #6C757D
+
+**Spacing**
+- Card padding: 16px
+- Card gap: 8px
+- Screen margin: 16px
+
+---
+
+## Screens included in Figma
+
+- Inbox — main view, list of capsules
+- New Smard — creation screen
+- Smard open — capsule detail view
+- Scheduled — time-based view
+
+---
+
+## Design philosophy
+
+Extreme minimalism. Zero visual noise.
+If an element doesn't serve a clear function, it doesn't exist.
+
+The app should feel closer to a notes app than 
+a messaging platform. Clean. Fast. Invisible.
+
+---
+
+## Contributing to design
+
+The visual direction is set by the core team.
+Community contributions welcome for:
+
+- Identifying UX inconsistencies
+- Improving accessibility
+- Dark mode proposal
+- Interaction patterns and micro-animations
+
+Open an Issue titled [DESIGN] to start the conversation.
+
+---
+
+*SMARD Protocol — smardapp.com*
