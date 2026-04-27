@@ -1,4 +1,15 @@
 # SMARD Design System
+## Live Prototype
+
+A working prototype of SmardApp is available here:
+**[Open SmardApp prototype](https://direct-smard.lovable.app/)**
+
+This is an early reference implementation showing 
+the core interaction model:
+- Inbox with structured capsule cards
+- Single tap → quick view with spark response
+- Double tap → full thread view
+- New Smard creation flow
 
 Visual direction for SmardApp — the reference client.
 
