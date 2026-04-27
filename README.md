@@ -95,7 +95,9 @@ Core interface:
 	•	Notes — private Smards, yours alone
 	•	Projects — group Smards in lists or simple kanban boards
 	•	Tasks — global view of all tasks across all your Smards
-Status: Spec complete. Reference client in design phase.Stack: To be defined with the community.Contributions welcome.
+Status: **Status:** Spec complete. 
+Reference prototype live: https://direct-smard.lovable.app/
+
 
 Roadmap
 
